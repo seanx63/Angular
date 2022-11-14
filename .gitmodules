@@ -1,0 +1,3 @@
+[submodule "Demo1"]
+	path = Demo1
+	url = https://github.com/seanx63/AngularDemo1
