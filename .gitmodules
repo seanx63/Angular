@@ -1,3 +1,6 @@
 [submodule "Demo1"]
 	path = Demo1
 	url = https://github.com/seanx63/AngularDemo1
+[submodule "routing-demo"]
+	path = routing-demo
+	url = https://github.com/seanx63/routing-demo
