@@ -4,3 +4,6 @@
 [submodule "routing-demo"]
 	path = routing-demo
 	url = https://github.com/seanx63/routing-demo
+[submodule "react-form-demo"]
+	path = react-form-demo
+	url = https://github.com/seanx63/react-form-demo
